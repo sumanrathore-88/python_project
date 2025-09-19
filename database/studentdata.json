@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "suman",
+    "address": "jodhpur",
+    "email": "suman@gmail.com",
+    "qualifications": []
+  },
+  {
+    "id": 2,
+    "name": "yuvi",
+    "address": "jodhpur",
+    "email": "yuvi@gmail.com",
+    "qualifications": [
+      {
+        "qualification": "BBA",
+        "year": "2020"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "HARI",
+    "address": "JAIPUR",
+    "email": "hari@gmail.com",
+    "qualifications": [
+      {
+        "qualification": "B.Tech",
+        "year": "2020"
+      },
+      {
+        "qualification": "M.Tech",
+        "year": "2022"
+      }
+    ]
+  }
+]
